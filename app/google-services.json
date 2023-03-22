@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403385453371",
+    "project_id": "android10-25b9f",
+    "storage_bucket": "android10-25b9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403385453371:android:f324d7d7995e0050a0851e",
+        "android_client_info": {
+          "package_name": "com.rosh.firebaseauthwhithphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403385453371-qu8v4s0h88ecom03rso00q0285j9mij9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjCVh4dw21Bl3x2_O1ylUDBnBq2NFLoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403385453371-qu8v4s0h88ecom03rso00q0285j9mij9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
